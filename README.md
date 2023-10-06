@@ -1,2 +1,2 @@
 # ZKGRA_I-homework
-Oznacne cislo 11
+Oznacne cislo 10
