@@ -11,13 +11,23 @@ def code(message: str):
     return coded_message
 
 
+def code_in_numbers(message: str):
+    coded_message = []
+    for character in message:
+        reverse_order = ALPHABET_LENGTH - (ord(character) - ORDINAL_A) - 1
+        coded_message.append(str(reverse_order))
+    return " ".join(coded_message)
+
+
 def decode(coded_message: str):
     return code(coded_message)
 
 
 if __name__ == '__main__':
-    message = "abcd"
+    message = "enkhbayar"
+    print(f"Original Message: [{message}]")
     coded_message = code(message)
-    print(coded_message)
-    print(code(coded_message))
+    print(f"Coded message in letters: [{coded_message}]")
+    print(f"Coded message in numbers: [{code_in_numbers(message)}]")
+    print(f"Decoded message: [{decode(coded_message)}]")
 

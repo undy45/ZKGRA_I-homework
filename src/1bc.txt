@@ -1,0 +1,8 @@
+original_message: [enkhbayar]
+coded_message: [hybeklnlu]
+decoded_message: [enkhbayar]
+coded_message_in_numbers: [7 24 1 4 10 11 13 11 20]
+decode_message_in_numbers: [enkhbayar]
+Number of times message was coded and decoded: [100000]
+Elapsed whole time: [0.775092601776123s]
+Elapsed time for one iteration: [7.75092601776123e-06s]
