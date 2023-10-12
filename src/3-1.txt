@@ -1,0 +1,4 @@
+original message: ENCRYPTME2DAY
+coded message:    15 32 13 36 51 34 42 31 15 55 14 11 51
+original message: ENKHBAYAR
+coded message:    15 32 25 22 12 11 51 11 36

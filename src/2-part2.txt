@@ -1,0 +1,29 @@
+original message: [undy]
+coded message: [exni]
+decryption table:
+
+encryption key: 1, decrypted message: dwmh
+encryption key: 2, decrypted message: cvlg
+encryption key: 3, decrypted message: bukf
+encryption key: 4, decrypted message: atje
+encryption key: 5, decrypted message: zsid
+encryption key: 6, decrypted message: yrhc
+encryption key: 7, decrypted message: xqgb
+encryption key: 8, decrypted message: wpfa
+encryption key: 9, decrypted message: voez
+encryption key: 10, decrypted message: undy
+encryption key: 11, decrypted message: tmcx
+encryption key: 12, decrypted message: slbw
+encryption key: 13, decrypted message: rkav
+encryption key: 14, decrypted message: qjzu
+encryption key: 15, decrypted message: piyt
+encryption key: 16, decrypted message: ohxs
+encryption key: 17, decrypted message: ngwr
+encryption key: 18, decrypted message: mfvq
+encryption key: 19, decrypted message: leup
+encryption key: 20, decrypted message: kdto
+encryption key: 21, decrypted message: jcsn
+encryption key: 22, decrypted message: ibrm
+encryption key: 23, decrypted message: haql
+encryption key: 24, decrypted message: gzpk
+encryption key: 25, decrypted message: fyoj
