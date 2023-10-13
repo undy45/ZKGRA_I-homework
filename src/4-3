@@ -1,0 +1,37 @@
+4.3.1 a)
+A = 2^6 (mod 4)
+A = 0
+B = 2^3 (mod 4)
+B = 0
+S = 0
+
+4.3.1 b)
+A = 78^6 (mod 33)
+A = 12^6
+A = 12^6
+A = 144^3
+A = 12^3
+A = 12*144
+A = 12*12
+A = 144
+A = 12
+
+B = 12^3 (mod 33)
+B = 12*144
+B = 12*12
+B = 144
+B = 12
+
+S = A^3 (mod 33)
+S = 12^3
+S = 12
+
+S = B^6 (mod 33)
+S = 12^6
+S = 12
+
+
+4.3.2
+2^(-1) (mod 6) is undefined because you cannot multiply 2 with anything that will create a remainder of 1.
+This is because 2 is a prime factor of 6
+
