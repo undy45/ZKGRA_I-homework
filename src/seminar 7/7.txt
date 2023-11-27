@@ -1,2 +1,22 @@
 messsage = Enkhbayar
-in hexadecimal: 
+in hexadecimal:
+2. a)
+Hex -> Hex looked up -> Decimal
+01 -> 7c -> 124
+ac -> 91 -> 145
+03 -> 7b -> 123
+04 -> f2 -> 242
+64 -> 43 -> 67
+06 -> 6f -> 111
+Od -> d7 -> 215
+10 -> ca -> 202
+
+2. b)
+Hex -> Hex looked up -> Decimal
+f1 -> 2b -> 43
+f3 -> 7e -> 126
+f4 -> ba -> 186
+f6 -> d6 -> 214
+f8 -> e1 -> 225
+ff -> 7d -> 125
+10 -> 7c -> 124
